@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    position: fixed;
+    display: flex;
+    background-color: #0349fc;
+    font-size: 3vw;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    color:white;
+    z-index: 100;
+
+}
